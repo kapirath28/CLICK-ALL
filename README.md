@@ -1,4 +1,4 @@
-<h1 align="center">🌲 Linktree</h1>
+<h1 align="center">CLICK-ALL</h1>
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="screenshot.png">
+  <img alt="screenshot" src="Screenshot from 2024-06-13 16-26-06.png">
 </p>
 
 ---
